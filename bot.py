@@ -1,4 +1,4 @@
-#Read the README.md file before insert the code on your code
+#Read the README.txt file before insert the code on your code
 
 TICKETS_FILE = "tickets-server.txt"
 
